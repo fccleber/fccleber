@@ -1,13 +1,15 @@
 # Cleber França Carvalho
 
-**Machine Learning Engineer · AI Systems · LLM Applications**
+**AI Engineer · LLM & RAG Systems · Machine Learning**
 
-ML Engineer with a background spanning production software delivery, applied research,
-and AI systems development. Two years of graduate-level ML research at Kyoto University
-of Advanced Science (healthcare AI, time series forecasting, LSTM architectures) in Japan.
-Four years of production Android engineering at a French assistive technology company,
+AI Engineer building LLM and RAG systems whose answers can be traced back to their sources.
+Currently developing the RAG and analytics backend of a technology-intelligence platform
+for the oil & gas sector, built with university partners.
+
+Background spanning production software and applied research: two years of graduate ML research
+at Kyoto University A.S., in Japan (healthcare AI, time-series forecasting, LSTM architectures),
+and four years of production Android engineering at a French assistive-technology company,
 deploying systems used by 3,000+ users across Europe.
-
 
 Olá! 🇧🇷 · Cześć! 🇵🇱 · こんにちは! 🇯🇵 · ¡Hola! 🇪🇸
 
